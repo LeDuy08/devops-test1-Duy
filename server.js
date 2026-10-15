@@ -17,7 +17,7 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
             <h1>DevOps CI/CD thanh cong!</h1>
-            <p>Website da duoc deploy tu dong bang Jenkins.</p>
+            
         </body>
         </html>
     `);
